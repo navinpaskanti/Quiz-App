@@ -19,6 +19,6 @@
 
 ![image alt](https://github.com/navinpaskanti/Quiz-App/blob/2eae74d0901ddbc740443c4b3a8e07b14f89e086/output.png)
 
-![image alt]([https://github.com/navinpaskanti/Quiz-App/blob/2eae74d0901ddbc740443c4b3a8e07b14f89e086/output.png](https://github.com/navinpaskanti/Quiz-App/blob/main/output2.png?raw=true))
+![image alt](https://github.com/navinpaskanti/Quiz-App/blob/2eae74d0901ddbc740443c4b3a8e07b14f89e086/output.png)
 
 ![image alt](https://github.com/navinpaskanti/Quiz-App/blob/25fe17d318164483338168a1d64acc689108c620/output1.png)
