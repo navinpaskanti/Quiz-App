@@ -1,7 +1,7 @@
 # Quiz-App
 # A simple Quiz App built with HTML, CSS (Bootstrap), and JavaScript that allows users to answer multiple-choice questions, navigate between questions, and view their final score.
 
-#🚀 Features
+# 🚀 Features
 
 ✅ Multiple-choice questions
 
