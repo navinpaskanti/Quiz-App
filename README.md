@@ -16,3 +16,5 @@
 ✅ Responsive UI using Bootstrap
 
 ![image alt](https://github.com/navinpaskanti/Quiz-App/blob/2eae74d0901ddbc740443c4b3a8e07b14f89e086/output.png)
+
+![image alt](![image alt](https://github.com/navinpaskanti/Quiz-App/blob/2eae74d0901ddbc740443c4b3a8e07b14f89e086/output.png))
